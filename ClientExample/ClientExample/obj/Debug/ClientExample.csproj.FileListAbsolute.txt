@@ -1,0 +1,6 @@
+c:\users\roi\documents\visual studio 2015\Projects\ClientExample\ClientExample\bin\Debug\ClientExample.exe.config
+c:\users\roi\documents\visual studio 2015\Projects\ClientExample\ClientExample\bin\Debug\ClientExample.exe
+c:\users\roi\documents\visual studio 2015\Projects\ClientExample\ClientExample\bin\Debug\ClientExample.pdb
+c:\users\roi\documents\visual studio 2015\Projects\ClientExample\ClientExample\obj\Debug\ClientExample.csprojResolveAssemblyReference.cache
+c:\users\roi\documents\visual studio 2015\Projects\ClientExample\ClientExample\obj\Debug\ClientExample.exe
+c:\users\roi\documents\visual studio 2015\Projects\ClientExample\ClientExample\obj\Debug\ClientExample.pdb

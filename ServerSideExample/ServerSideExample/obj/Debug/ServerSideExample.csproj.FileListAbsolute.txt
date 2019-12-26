@@ -1,0 +1,6 @@
+c:\users\roi\documents\visual studio 2015\Projects\ServerSideExample\ServerSideExample\bin\Debug\ServerSideExample.exe.config
+c:\users\roi\documents\visual studio 2015\Projects\ServerSideExample\ServerSideExample\bin\Debug\ServerSideExample.exe
+c:\users\roi\documents\visual studio 2015\Projects\ServerSideExample\ServerSideExample\bin\Debug\ServerSideExample.pdb
+c:\users\roi\documents\visual studio 2015\Projects\ServerSideExample\ServerSideExample\obj\Debug\ServerSideExample.csprojResolveAssemblyReference.cache
+c:\users\roi\documents\visual studio 2015\Projects\ServerSideExample\ServerSideExample\obj\Debug\ServerSideExample.exe
+c:\users\roi\documents\visual studio 2015\Projects\ServerSideExample\ServerSideExample\obj\Debug\ServerSideExample.pdb
